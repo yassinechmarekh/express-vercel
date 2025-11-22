@@ -21,7 +21,7 @@ This project is a boilerplate for deploying an Express application with MongoDB 
 1.  Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/yassinechmarekh/express-vercel.git
     cd express-vercel
     ```
 
